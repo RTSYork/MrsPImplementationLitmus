@@ -1,0 +1,6 @@
+task 1 access time:
+task 0 on core 1 executes 0 times, exec_avg1: 9982044689
+task 2 access time:
+task 1 on core 2 executes 0 times, exec_avg1: 2993921
+task 3 access time:
+task 2 on core 1 executes 0 times, exec_avg1: 7872

@@ -1,0 +1,2 @@
+task 1 access time:
+task 0 on core 1 executes 1 times, exec_avg1:     9982036708.00000
